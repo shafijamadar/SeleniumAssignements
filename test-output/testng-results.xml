@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65636" started-at="2018-02-07T06:49:28Z" finished-at="2018-02-07T06:50:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65636" started-at="2018-02-07T06:49:28Z" finished-at="2018-02-07T06:50:34Z">
+      <class name="Collection_Test.SortedTest">
+        <test-method status="PASS" signature="SortList()[pri:0, instance:Collection_Test.SortedTest@4501b7af]" name="SortList" duration-ms="65355" started-at="2018-02-07T12:19:28Z" finished-at="2018-02-07T12:20:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortList -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Collection_Test.SortedTest@4501b7af]" name="tearDown" is-config="true" duration-ms="229" started-at="2018-02-07T12:20:34Z" finished-at="2018-02-07T12:20:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Collection_Test.SortedTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
