@@ -46,5 +46,7 @@
 	<classpathentry kind="lib" path="D:/Shafi/Temp/Shafi/Selenium/Jar files/selenium-server-3.4.0/lib/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="D:/Shafi/Temp/Shafi/Selenium/Jar files/Apache POI Jars/poi-bin-3.16-20170419/poi-3.16/poi-3.16.jar"/>
 	<classpathentry kind="lib" path="D:/Shafi/Temp/Shafi/Selenium/Jar files/Apache POI Jars/poi-bin-3.16-20170419/poi-3.16/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/lib/javax.json-1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
